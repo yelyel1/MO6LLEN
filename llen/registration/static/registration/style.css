@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fff0f6;
+    color: #51263a;
+    margin: 30px;
+}
+
+h1 {
+    color: #b8326a;
+}
+
+a {
+    color: #c2185b;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #ffffff;
+}
+
+th {
+    background: #c2185b;
+    color: #ffffff;
+    text-align: left;
+}
+
+th,
+td {
+    padding: 10px;
+    border: 1px solid #f0b6ce;
+}
+
+button {
+    background: #d63384;
+    color: #ffffff;
+    border: 0;
+    padding: 9px 14px;
+    cursor: pointer;
+}
+
+input,
+select {
+    padding: 8px;
+    margin: 4px 0;
+}
+
+.message {
+    padding: 10px;
+    background: #fce4ec;
+    border-left: 4px solid #d63384;
+}
